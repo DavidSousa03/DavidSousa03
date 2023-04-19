@@ -1,4 +1,4 @@
-## Ola! Sou David Muniz 
+## Ola! Sou David Sousa
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas 3/5
  <div style="display: inline_block"><br>
   <img align="center" alt="GIT Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
