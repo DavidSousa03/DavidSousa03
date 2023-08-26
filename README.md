@@ -1,5 +1,5 @@
 ## Ola! Sou David Sousa
-- 🌱 Estudando Analise e Desenvolvimento de Sistemas 3/5
+- 🌱 Estudando Analise e Desenvolvimento de Sistemas 4/5
  <div style="display: inline_block"><br>
   <img align="center" alt="GIT Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
